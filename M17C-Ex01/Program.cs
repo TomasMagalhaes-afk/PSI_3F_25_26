@@ -11,6 +11,7 @@ namespace M17C_Ex01
         static void Main(string[] args)
         {
             Console.WriteLine("Eu sou o Nikolay ... o poderoso cá do sítio");
+            Console.WriteLine("O Magalhães é o poderosão do git");
         }
     }
 }
